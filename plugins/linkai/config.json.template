@@ -14,7 +14,7 @@
     "summary": {
         "enabled": true,
         "group_enabled": true,
-        "max_file_size": 5000,
-        "type": ["FILE", "SHARING", "IMAGE"]
+        "max_file_size": 15000,
+        "type": ["FILE", "SHARING"]
     }
 }
